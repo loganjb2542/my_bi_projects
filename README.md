@@ -5,7 +5,7 @@ This Power BI dashboard provides a comprehensive overview and in-depth analysis 
 
 <b>Dashboard Structure</b><br>The dashboard consists of two primary sheets:
 
-<b>Overview Sheet</b><br>
+<b>Overview Sheet</b>
 Stacked Bar Charts:<br>
 <ul style="list-style-type: square; list-style-position: inside;">
 <p>Top 10 Genre: Visualizes the most popular genres on Netflix.<br>
