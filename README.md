@@ -9,8 +9,8 @@ This Power BI dashboard provides a comprehensive overview and in-depth analysis 
 Stacked Bar Charts:<br>
 <ul style="list-style-type: square; list-style-position: inside;">
 <p>Top 10 Genre: Visualizes the most popular genres on Netflix.<br>
-Count of Rating by Type: Displays the distribution of ratings (e.g., TV-14, PG-13) across different content types.<br>
-Count of Season by Number: Shows the frequency of different season counts for TV shows.<br><p></ul>
+Count of Rating by Type: Displays the rating distribution (e.g., TV-14, PG-13) across different content types.<br>
+Count of Season by Number: The frequency of different season counts for TV shows.<br><p></ul>
 Card Visuals:<br>
 <ul style="list-style-type: square; list-style-position: inside;">
 <p>Total Number of Shows: Provides a count of all shows on Netflix.<br>
