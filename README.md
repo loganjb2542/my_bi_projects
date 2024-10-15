@@ -5,7 +5,7 @@ This Power BI dashboard provides a comprehensive overview and in-depth analysis 
 
 <b>Dashboard Structure</b><br>The dashboard consists of two primary sheets:
 
-<b>Overview Sheet</b>
+<b>Overview Sheet</b><br>
 Stacked Bar Charts:<br>
 <ul style="list-style-type: square; list-style-position: inside;">
 <p><li>Top 10 Genre: Visualizes the most popular genres on Netflix.</li><br>
@@ -29,13 +29,13 @@ Filter Visuals:<br>
 
 <b>Data Source:</b>https://www.kaggle.com/datasets/shivamb/netflix-shows/discussion/279376<br>
 
-<b>Key Insights</b><br>
+<b>Key Insights:</b><br>
 
 This dashboard aims to answer questions such as:<br>
 
-What are the most popular genres on Netflix?<br>
-How are ratings distributed across different content types?<br>
-What is the average duration of Netflix content?<br>
-How does the number of seasons vary for TV shows?<br>
-What are the trends in content release and addition to Netflix over time?<br>
+<li>What are the most popular genres on Netflix?</li><br>
+<li>How are ratings distributed across different content types?</li><br>
+<li>What is the average duration of Netflix content?</li><br>
+<li>How does the number of seasons vary for TV shows?</li><br>
+<li>What are the trends in content release and addition to Netflix over time?</li><br>
 By providing these insights, the dashboard can help users make informed decisions about content strategy, audience targeting, and content acquisition.
