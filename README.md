@@ -43,4 +43,8 @@ This dashboard aims to answer questions such as:<br>
 <li>What is the average duration of Netflix content?</li><br>
 <li>How does the number of seasons vary for TV shows?</li><br>
 <li>What are the trends in content release and addition to Netflix over time?</li><br>
-By providing these insights, the dashboard can help users make informed decisions about content strategy, audience targeting, and content acquisition.
+By providing these insights, the dashboard can help users make informed decisions about content strategy, audience targeting, and content acquisition.<br>
+
+<b>Snapshot 1</b><br>
+
+![Screenshot (311)](https://github.com/user-attachments/assets/d7db5d1b-f1bb-42b1-952c-2f98e3a1ad26)
