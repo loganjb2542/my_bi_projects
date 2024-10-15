@@ -25,7 +25,7 @@ The dashboard consists of two primary sheets:
 ![Screenshot (321)](https://github.com/user-attachments/assets/df1b3d32-0cee-4eb8-a6c7-f28a9ab6c89d)
 
 
-- Average Duration Time: Shows the average duration of Netflix content.
+- Average Duration Time: Shows the average duration of Netflix content.<br>
 ![Screenshot (317)](https://github.com/user-attachments/assets/cf4f8a50-c8bb-414d-9a05-5e44a21e3270)
 
 #### Filter Visuals:
