@@ -8,24 +8,24 @@ This Power BI dashboard provides a comprehensive overview and in-depth analysis 
 <b>Overview Sheet</b>
 Stacked Bar Charts:<br>
 <ul style="list-style-type: square; list-style-position: inside;">
-<p>Top 10 Genre: Visualizes the most popular genres on Netflix.<br>
-Count of Rating by Type: Displays the rating distribution (e.g., TV-14, PG-13) across different content types.<br>
-Count of Season by Number: The frequency of different season counts for TV shows.<br><p></ul>
+<p><li>Top 10 Genre: Visualizes the most popular genres on Netflix.</li><br>
+<li>Count of Rating by Type: Displays the rating distribution (e.g., TV-14, PG-13) across different content types.</li><br>
+<li>Count of Season by Number: The frequency of different season counts for TV shows.</li><br><p></ul>
 Card Visuals:<br>
 <ul style="list-style-type: square; list-style-position: inside;">
-<p>Total Number of Shows: Provides a count of all shows on Netflix.<br>
-Total Number of Directors: Displays the total number of unique directors involved in Netflix content<br>
-Total Number of Movies and Shows: Presents the combined count of movies and TV shows.<br>
-Average Duration Time: Shows the average duration of Netflix content.<br><p></ul>
+<p><li>Total Number of Shows: Provides a count of all shows on Netflix.</li><br>
+<li>Total Number of Directors: Displays the total number of unique directors involved in Netflix content.</li><br>
+<li>Total Number of Movies and Shows: Presents the combined count of movies and TV shows.</li><br>
+<li>Average Duration Time: Shows the average duration of Netflix content.</li><br><p></ul>
 Filter Visuals:<br>
 <ul style="list-style-type: square; list-style-position: inside;">
-<p>Year of Release: Allows users to filter data based on the year the content was released.<br>
-Listing Year on Netflix: Enables filtering based on the year the content was added to Netflix.<br><p></ul>
+<p><li>Year of Release: Allows users to filter data based on the year the content was released.</li><br>
+<li>Listing Year on Netflix: Enables filtering based on the year the content was added to Netflix.</li><br><p></ul>
 <b>Decomposed View Sheet</b><br>
 <ul style="list-style-type: square; list-style-position: inside;">
-<p>Decomposed Tree Visual: Provides a hierarchical breakdown of Netflix content, allowing users to drill down into specific categories and analyze their characteristics.<br>
-Card Visuals: The same card visuals as the Overview sheet, providing context for the decomposed view.<br>
-Filter Visuals: The same filter visuals as the Overview sheet, enabling filtering across the decomposed tree.<br><p></ul>
+<p><li>Decomposed Tree Visual: Provides a hierarchical breakdown of Netflix content, allowing users to drill down into specific categories and analyze their characteristics.</li><br>
+<li>Card Visuals: The same card visuals as the Overview sheet, providing context for the decomposed view.</li><br>
+<li>Filter Visuals: The same filter visuals as the Overview sheet, enabling filtering across the decomposed tree.</li><br><p></ul>
 
 <b>Data Source:</b>https://www.kaggle.com/datasets/shivamb/netflix-shows/discussion/279376<br>
 
