@@ -24,6 +24,7 @@ Filter Visuals:<br>
 <li>Listing Year on Netflix: Enables filtering based on the year the content was added to Netflix.</li><br><p></ul>
 
 ### <b>Decomposed View</b><br>
+<img src="file:///C:/Users/Dell/Pictures/Screenshots/Screenshot%20(314).png" alt="A cute cat">
 <ul style="list-style-type: square; list-style-position: inside;">
 <p><li>Decomposed Tree Visual: Provides a hierarchical breakdown of Netflix content, allowing users to drill down into specific categories and analyze their characteristics.</li><br>
 <li>Card Visuals: The same card visuals as the Overview sheet, providing context for the decomposed view.</li><br>
