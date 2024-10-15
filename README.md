@@ -26,6 +26,8 @@ Filter Visuals:<br>
 ### <b>Decomposed View</b><br>
 
 <ul style="list-style-type: square; list-style-position: inside;">
+  ![Screenshot (314)](https://github.com/user-attachments/assets/95e62db5-4e70-47e3-af42-4b0891174b71)
+
 <p><li>Decomposed Tree Visual: Provides a hierarchical breakdown of Netflix content, allowing users to drill down into specific categories and analyze their characteristics.</li><br>
 <li>Card Visuals: The same card visuals as the Overview sheet, providing context for the decomposed view.</li><br>
 <li>Filter Visuals: The same filter visuals as the Overview sheet, enabling filtering across the decomposed tree.</li><br><p></ul>
