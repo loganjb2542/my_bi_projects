@@ -3,9 +3,10 @@
 
 This Power BI dashboard provides a comprehensive overview and in-depth analysis of Netflix data. It is designed to help users gain insights into various aspects of Netflix content, including genre popularity, rating distribution, season counts, and more.<br>
 
-<b>Dashboard Structure</b><br>The dashboard consists of two primary sheets:
+## <b>Dashboard Structure</b><br>
+The dashboard consists of two primary sheets:<br>
 
-<b>Overview Sheet</b><br>
+### <b>Overview Sheet</b><br>
 Stacked Bar Charts:<br>
 <ul style="list-style-type: square; list-style-position: inside;">
 <p><li>Top 10 Genre: Visualizes the most popular genres on Netflix.</li><br>
@@ -21,15 +22,16 @@ Filter Visuals:<br>
 <ul style="list-style-type: square; list-style-position: inside;">
 <p><li>Year of Release: Allows users to filter data based on the year the content was released.</li><br>
 <li>Listing Year on Netflix: Enables filtering based on the year the content was added to Netflix.</li><br><p></ul>
-<b>Decomposed View Sheet</b><br>
+
+### <b>Overview Sheet</b><br>
 <ul style="list-style-type: square; list-style-position: inside;">
 <p><li>Decomposed Tree Visual: Provides a hierarchical breakdown of Netflix content, allowing users to drill down into specific categories and analyze their characteristics.</li><br>
 <li>Card Visuals: The same card visuals as the Overview sheet, providing context for the decomposed view.</li><br>
 <li>Filter Visuals: The same filter visuals as the Overview sheet, enabling filtering across the decomposed tree.</li><br><p></ul>
 
-<b>Data Source:</b>https://www.kaggle.com/datasets/shivamb/netflix-shows/discussion/279376<br>
+### <b>Data Source:</b>https://www.kaggle.com/datasets/shivamb/netflix-shows/discussion/279376<br>
 
-<b>Key Insights:</b><br>
+### <b>Key Insights:</b><br>
 
 This dashboard aims to answer questions such as:<br>
 
