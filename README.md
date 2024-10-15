@@ -1,4 +1,4 @@
-#Power BI Dashboard: Netflix Data Analysis<br>
+# Netflix Data Analysis<br>
 <b>Project Description</b><br>
 
 This Power BI dashboard provides a comprehensive overview and in-depth analysis of Netflix data. It is designed to help users gain insights into various aspects of Netflix content, including genre popularity, rating distribution, season counts, and more.<br>
